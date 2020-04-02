@@ -1,0 +1,3 @@
+#!/bin/bash
+echo krmarketbangalore
+echo jpnagarbangalore
