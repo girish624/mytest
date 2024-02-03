@@ -1,2 +1,3 @@
 #!/bin/bash
 krmarketbangalore
+echo "display pull" 
