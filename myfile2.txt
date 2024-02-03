@@ -1,4 +1,0 @@
-#!/bin/bash
-echo krmarketbangalore
-echo jpnagarbangalore
-girish vp jpnagarbangalore

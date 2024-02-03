@@ -1,6 +1,0 @@
-#!/bin/bash
-echo krmarketbangalore
-echo jpnagarbangaloremetrogreenlineone new
-echo bskmetro
-echo myfile1
-
